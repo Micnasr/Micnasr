@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Michael Nasr 👋
+### I'm an engineering student that loves programming and problem solving ⚡
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Micnasr/Micnasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
