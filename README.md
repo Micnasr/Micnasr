@@ -1,6 +1,6 @@
 ## 💁‍♂️ About me
 
-Hey, I'm Michael Nasr
+Hey, I'm Michael
 
 I'm an engineering student and I love programming / problem solving 🌱
 
