@@ -2,9 +2,9 @@
 
 Hey, I'm Michael Nasr!
 
-I'm an engineering student and I love programming / problem solving 🌱
+I'm a Computer Engineering student and I love programming / problem solving 🌱
 
-My main focus is to learn and grow ❤️
+My main focus is to learn and grow!
 
 
 ## 📊 Github stats
@@ -30,7 +30,6 @@ My main focus is to learn and grow ❤️
 ### 🧰 Frameworks and libraries
 
 <ul>• ReactJS</ul>
-<ul>• NodeJS</ul>
 <ul>• Unity3D</ul>
 <ul>• Gamemaker Studio 2</ul>
 
@@ -38,3 +37,4 @@ My main focus is to learn and grow ❤️
 <ul>• Git</ul>
 <ul>• Jupyter</ul>
 <ul>• Visual Studio Code</ul>
+<ul>• Eclipse</ul>
