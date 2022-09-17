@@ -7,7 +7,7 @@
 
 * Hey, I'm Michael Nasr! :wave:	
 * I'm a second year Computer Engineering student :bulb:	
-* I am apart of my University's Formula Electric Team :racing_car:
+* I am part of my University's Formula Electric Team :racing_car:
 
 ## :floppy_disk: More Projects
 
