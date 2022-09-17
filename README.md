@@ -4,7 +4,7 @@
 * I'm a second year Computer Engineering student :bulb:	
 * I am apart of my University's Formula Electric Team :racing_car:
 
-## 🛠️ My favorite tools
+## 🛠️ My Skills
 
 ### 👨‍💻 Programming Languages
 
