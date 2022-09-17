@@ -1,10 +1,24 @@
+<div align="center">
+<img src="images/header.png? raw=true" align="center" width=100% height=50% />
+</div> 
+
+
 ## 💁‍♂️ About me
 
 * Hey, I'm Michael Nasr! :wave:	
 * I'm a second year Computer Engineering student :bulb:	
 * I am apart of my University's Formula Electric Team :racing_car:
 
+## :floppy_disk: More Projects
+
+I have more game development projects that you can check out [HERE](https://micnasr.itch.io/)!
+ that I never ended up publishing on github.
+
 ## 🛠️ My Skills
+
+<div align="center">
+<img src="images/skills.png? raw=true" align="right" width=30% height=30% />
+</div> 
 
 ### 👨‍💻 Programming Languages
 
