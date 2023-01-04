@@ -22,21 +22,21 @@ I have more game development projects that you can check out [HERE](https://micn
 
 ### 👨‍💻 Programming Languages
 
-<ul>• C#</ul>
+<ul>• C/C++</ul>
 <ul>• Python</ul>
 <ul>• Javascript</ul>
 <ul>• Java</ul>
-<ul>• C</ul>
+<ul>• C#</ul>
 
 ### 🧰 Frameworks and libraries
 
 <ul>• ReactJS</ul>
-<ul>• Unity3D</ul>
+<ul>• Unity</ul>
+<ul>• Unreal Engine 5</ul>
 <ul>• Gamemaker Studio 2</ul>
 
 ### 💻 Software and tools
 <ul>• Git</ul>
-<ul>• Unity</ul>
 <ul>• Visual Studio Code</ul>
 <ul>• Eclipse</ul>
 
