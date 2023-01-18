@@ -33,12 +33,10 @@ I have more game development projects that you can check out [HERE](https://micn
 <ul>• ReactJS</ul>
 <ul>• Unity</ul>
 <ul>• Unreal Engine 5</ul>
-<ul>• Gamemaker Studio 2</ul>
 
 ### 💻 Software and tools
 <ul>• Git</ul>
-<ul>• Visual Studio Code</ul>
-<ul>• Eclipse</ul>
+<ul>• Visual Studio</ul>
 
 ## 📊 Github stats
 <p>
