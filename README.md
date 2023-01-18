@@ -51,5 +51,7 @@ I have more game development projects that you can check out [HERE](https://micn
 ## 📧 Contact Me 
 <div align="center">
  
-[![Linkedin Badge](https://img.shields.io/badge/-Michael%20Nasr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnasr03/)]((https://www.linkedin.com/in/michaelnasr03/))
+[![Linkedin Badge](https://img.shields.io/badge/-Michael%20Nasr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnasr03/)](https://www.linkedin.com/in/michaelnasr03/)
+</div>
+
 </div>
