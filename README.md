@@ -37,7 +37,7 @@ I have more game development projects that you can check out [HERE](https://micn
 
 ### 💻 Software and tools
 <ul>• Git</ul>
-<ul>• Visual Studio</ul>
+<ul>• Visual Studio / Code</ul>
 
 ## 📊 Github stats
 <p>
