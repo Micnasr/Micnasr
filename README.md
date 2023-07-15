@@ -25,14 +25,13 @@ I have more game development projects that you can check out [HERE](https://micn
 
 <ul>• C/C++</ul>
 <ul>• Python</ul>
+<ul>• C#</ul>
 <ul>• Javascript</ul>
 <ul>• Java</ul>
-<ul>• C#</ul>
 
 ### 🧰 Frameworks and libraries
-
+<ul>• Unity Engine</ul>
 <ul>• ReactJS</ul>
-<ul>• Unity</ul>
 <ul>• Unreal Engine 5</ul>
 
 ### 💻 Software and tools
