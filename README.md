@@ -26,6 +26,7 @@ I have more game development projects that you can check out [HERE](https://micn
 <ul>• C/C++</ul>
 <ul>• Python</ul>
 <ul>• C#</ul>
+<ul>• Bash Scripting</ul>
 <ul>• Javascript</ul>
 <ul>• Java</ul>
 
