@@ -6,14 +6,13 @@
 ## 💁‍♂️ About me
 
 * Hey, I'm Michael Nasr! :wave:	
-* I'm a second year Computer Engineering student :bulb:	
+* I'm a third year Computer Engineering student :bulb:	
 * I am from Lebanon
 * I am part of my University's Formula Electric Team :racing_car:
 
-## :floppy_disk: More Projects
+## :floppy_disk: Extra Projects
 
 I have more game development projects that you can check out [HERE](https://micnasr.itch.io/)!
- that I never ended up publishing on github.
 
 ## 🛠️ My Skills
 
