@@ -10,6 +10,3 @@ I have more game development projects that you can check out [HERE](https://micn
 
 ## 📊 Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=micnasr&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micnasr&theme=dark" alt="micnasr" /></p>
-
