@@ -2,11 +2,8 @@
 
 * Hey, I'm Michael! :wave:	
 * I'm a fifth year Computer Engineering student :bulb:	
-* I am part of my University's Formula Electric Team :racing_car:
+* I like coding projects where I can be creative and still solve real problems 🚀
 
-## :floppy_disk: Extra Projects
-
-I have more game development projects that you can check out [HERE](https://micnasr.itch.io/)!
-
-## 📊 Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=micnasr&show_icons=true&theme=radical)
+## :floppy_disk: Other Projects
+- Steam game: **[Watertight](https://store.steampowered.com/app/3858990/Watertight/)** *(source code & assets are private)*
+- More game dev projects: **[micnasr.itch.io](https://micnasr.itch.io/)**
