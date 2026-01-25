@@ -1,7 +1,7 @@
 ## 💁‍♂️ About me
 
 * Hey, I'm Michael! :wave:	
-* I'm a fifth year Computer Engineering student :bulb:	
+* I'm a final year Computer Engineering student :bulb:	
 * I like coding projects where I can be creative and still solve real problems 🚀
 
 ## :floppy_disk: Other Projects
